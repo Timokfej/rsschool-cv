@@ -1,3 +1,3 @@
 # rsschool-cv
 
-## https://timokfej.github.io/rsschool-cv/gh-pages/cv
+## https://timokfej.github.io/rsschool-cv/cv
