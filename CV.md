@@ -1,17 +1,6 @@
-<md lang="ru">
+            <img src="https://hhcdn.ru/photo/618649521.jpeg?t=1626603770&h=Nv_tuOSuzkFRNCrjXxXNCg" alt="Tim">
 
-    <head>
-        <meta charset="utf-8">
-        <title>cv-Tim Sakhar</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
-
-    <body>
-        <main class="post">
-
-            <img src="Tim.jpg" alt="Tim">
-
-            <pre>
+        <pre>
             #Sakhar Tsimafei
             *Telefone number:  +375-29-33-888-43
             *[Linkedin](https://www.linkedin.com/in/%D1%82%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9-%D1%81%D0%B0%D1%85%D0%B0%D1%80-619125190/)
@@ -23,7 +12,4 @@
             *Belarusian State Technological University, Minsk Economics, Economics and enterprise management (by industry)
             *Belarusian State Technological University, Minsk TOV, Chemical engineer-technologist
         </pre>
-        </main>
-    </body>
 
-</md>
