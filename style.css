@@ -12,14 +12,14 @@ ul[class] {
 }
 
 img {
-    border-radius: 8px;
-    max-width: 100%;
     display: block;
+    max-width: 100%;
+    border-radius: 8px;
 }
 
 header {
-    background-color: rgb(211, 228, 238);
     display: flex;
+    background-color: rgb(211, 228, 238);
 }
 
 .about-flex {
