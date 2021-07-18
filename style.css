@@ -1,0 +1,36 @@
+body {
+    margin: auto;
+    width: 1024px;
+}
+
+.wraper {
+    background-color: cornsilk;
+}
+
+ul[class] {
+    list-style: none;
+}
+
+img {
+    border-radius: 8px;
+    max-width: 100%;
+    display: block;
+}
+
+header {
+    background-color: rgb(211, 228, 238);
+    display: flex;
+}
+
+.about-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul.footer {
+    margin: 0;
+}
+
+ul.footer li {
+    display: inline;
+}
